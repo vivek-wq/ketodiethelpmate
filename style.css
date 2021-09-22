@@ -1,0 +1,18 @@
+.testimonial_heading {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 30px !important;
+    font-weight: 400;
+    margin: 20px;
+}
+
+* {
+    scroll-behavior: smooth;
+}
+
+html {
+    scroll-behavior: smooth;
+}
